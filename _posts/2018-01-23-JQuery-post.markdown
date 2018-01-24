@@ -5,6 +5,6 @@ date:   2018-01-23 07:47:51 +0100
 categories: jekyll update
 ---
 
-Un aperçu de mes tests JQuery : [JQuery tests][jquery-tests].
+freecodecamp.org --> Build a Tribute Page : [Tribute to Michel Berger][berger].
 
-[jquery-tests]: {{ site.baseurl }}/JQuery
+[berger]: {{ site.baseurl }}/Berger
